@@ -29,26 +29,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![9ED9D391-3FFC-4532-8371-12E47EC4A3D8](https://github.com/user-attachments/assets/15740e95-fe0c-4255-a7dc-c65ad7bb7491)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Intake
+The ticket is created by a user through email, the web portal, or manually by a support agent. osTicket automatically generates a ticket number and logs details such as the user's name, issue summary, and timestamp.
+
+2. Assignment and Communication
+Once a ticket is received, it is assigned to the appropriate department or staff member. Email notifications are sent to both the user and staff. Communication may continue through internal notes or public replies to gather more information or clarify the issue.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![695418A0-FF1A-487D-8D0B-66BBE99FAA2C](https://github.com/user-attachments/assets/3d86da9a-5c9e-470d-8e3c-d46c328268d3)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Working the Issue
+The support staff investigates the problem, updates the ticket with troubleshooting steps, and communicates with the user as needed. Tasks may be delegated or escalated based on complexity or role.
+
+4. Resolution
+When the issue is resolved, the staff updates the ticket with the solution, sets the ticket status to "Resolved" or "Closed," and informs the user. The ticket is archived and can be referenced in future reports or audits.
 </p>
-<br />
